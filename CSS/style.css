@@ -1,0 +1,45 @@
+h3 {
+    background-color: thistle;
+    color: blue;
+    padding: 7PX;
+}
+
+body {
+    background-color: #8EF6E4;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+thead {
+    background-color: #aa96da;
+    font: outline;
+    font-size: 15PX;
+    text-align: center;
+}
+
+.style1 {
+    background-color: rgb(60, 155, 131);
+    color: rgb(154, 179, 45);
+    padding: 7PX;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.style2 {
+    background-color: #d59bf6;
+    color: #ff5722;
+    padding: 7PX;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.img-style1 {
+    border: #e84545;
+    border-radius: 5PX;
+    padding: 10PX;
+    background-color: #4326c7;
+    width: 175PX;
+    height: 225PX;
+}
+
+#main {
+    border-color: #0b0e0d;
+    background-color: aqua;
+}
